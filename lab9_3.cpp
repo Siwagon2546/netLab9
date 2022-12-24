@@ -3,7 +3,7 @@
 using namespace std;
 
 int main()
-{
+{ 
     int age,height,bounty;
     string CH[7] ={"Zoro","Sanji","Usopp","Chopper","Franky","Brook","Jinbe"},character;
     cout<<"Enter your age: ";
